@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WifiFileTransfer</string>
+    <string name="search_devices">Search</string>
+    <string name="searching_devices">Searching...</string>
+    <string name="placeholder_for_device_name">Place Holder Text</string>
+    <string name="file_send_device_name">Device Name</string>
+    <string name="file_send_device_address">device_address</string>
+</resources>
